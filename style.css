@@ -1,0 +1,43 @@
+/*CSS commentary*/
+/*Cascade styles,it applies to he last one.
+
+h1{
+    background-color:red;
+    font-size:3em;
+}
+
+h1{
+    background-color:lightsalmon;
+
+}
+*/
+
+body{
+    background:black;
+    color:greenyellow;
+    font-family:monospace;
+}
+
+h2{
+    background-color:greenyellow;
+    color:gray;
+}
+
+header{
+    width:100%;
+    margin:0 auto;
+}
+
+header figure{
+    width:80px;
+}
+
+header figure img{
+    width:100px;
+}
+
+header ul{
+    list-style:none;
+    text-align:center;
+}
+
